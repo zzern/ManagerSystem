@@ -10,67 +10,72 @@ Java版本：1.8
 版本管理工具：Maven  
 版本控制工具：GitHub  
 
-## 3.2 实现过程
-### 3.2.1 商品首页实现
+## 实现过程
+###  商品首页实现
 
- ![这里写图片描述](https://img-blog.csdn.net/20180506142520732?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-16696930123193.png)
 
- ![这里写图片描述](https://img-blog.csdn.net/20180506142530664?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70.png)
 其他部分实现效果
- ![这里写图片描述](https://img-blog.csdn.net/20180506142550165?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
- ![这里写图片描述](https://img-blog.csdn.net/20180506142617150?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-16696930144546.png)
+ ![这里写图片描述](README.assets/70-16696930173039.png)
+
 ### 3.2.2 二手商城实现
 
- ![这里写图片描述](https://img-blog.csdn.net/2018050614262516?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969301963212.png)
 	商城商品展示
- ![这里写图片描述](https://img-blog.csdn.net/20180506142641307?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969302335515.png)
 
+ ![这里写图片描述](README.assets/70-166969314800678.png)
+ ![这里写图片描述](README.assets/70-166969314599875.png)
 
- ![这里写图片描述](https://img-blog.csdn.net/20180506142650930?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
- ![这里写图片描述](https://img-blog.csdn.net/20180506142655874?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 ### 3.2.3 商品详情实现
 
- ![这里写图片描述](https://img-blog.csdn.net/20180506142702750?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969302618518.png)
 留言
- ![这里写图片描述](https://img-blog.csdn.net/20180506142707609?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969309922445.png)
 
 ### 3.2.4 站内搜索引擎实现
 
- ![这里写图片描述](https://img-blog.csdn.net/20180506142713316?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969302873421.png)
 搜索结果
- ![这里写图片描述](https://img-blog.csdn.net/20180506142717344?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969303379024.png)
+
 ### 3.2.5 发布商品实现
 
- ![这里写图片描述](https://img-blog.csdn.net/20180506142725661?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
- ![这里写图片描述](https://img-blog.csdn.net/20180506142737493?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969303582927.png)
+ ![这里写图片描述](README.assets/70-166969303788530.png)
 
- ![这里写图片描述](https://img-blog.csdn.net/20180506142751872?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969304001633.png)
 
 ### 3.2.6 发布求购信息实现
 
- ![这里写图片描述](https://img-blog.csdn.net/20180506142803686?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969304195236.png)
 ### 3.2.7 个人信息页面实现
 
- ![这里写图片描述](https://img-blog.csdn.net/20180506142810540?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
- ![这里写图片描述](https://img-blog.csdn.net/20180506142815483?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969304377539.png)
+ ![这里写图片描述](README.assets/70-166969304980042.png)
+
 ### 3.2.8 我发布的商品实现
 
- ![这里写图片描述](https://img-blog.csdn.net/20180506142820866?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969311488148.png)
 点击修改
- ![这里写图片描述](https://img-blog.csdn.net/2018050614282592?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969311741251.png)
 
 ### 3.2.9我发布的求购信息实现
 
- ![这里写图片描述](https://img-blog.csdn.net/2018050614284365?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
- ![这里写图片描述](https://img-blog.csdn.net/20180506142847753?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969311955154.png)
+ ![这里写图片描述](README.assets/70-166969312186057.png)
+
 ### 3.2.10购物车实现
 
- ![这里写图片描述](https://img-blog.csdn.net/20180506142855913?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969312348960.png)
 点击添加数量和减少
- ![这里写图片描述](https://img-blog.csdn.net/20180506142901134?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969312536163.png)
+
 ### 3.2.11登录注册实现
 
- ![这里写图片描述](https://img-blog.csdn.net/20180506142908919?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
- ![这里写图片描述](https://img-blog.csdn.net/20180506142916295?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
- ![这里写图片描述](https://img-blog.csdn.net/20180506142923392?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dzazExMDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ ![这里写图片描述](README.assets/70-166969312717266.png)
+ ![这里写图片描述](README.assets/70-166969312926669.png)
+ ![这里写图片描述](README.assets/70-166969313098272.png)
 
